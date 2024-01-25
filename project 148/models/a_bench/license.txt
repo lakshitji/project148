@@ -1,0 +1,8 @@
+Model Information:
+* title:	A bench
+* source:	https://sketchfab.com/3d-models/a-bench-fb703a8d40284110869ff58fc67b0123
+* author:	nurbolatov.nurtas (https://sketchfab.com/nurbolatov.nurtas)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
